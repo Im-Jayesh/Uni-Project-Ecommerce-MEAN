@@ -4,7 +4,7 @@
 
 ## Team Members
 - **Jayesh Suthar (Project Lead):** [GitHub Profile: @Im-Jayesh](https://github.com/Im-Jayesh)
-- **Vinay Rajput:** [GitHub Profile: @VinayRCode](https://github.com/Vinay-hack47)
+- **Vinay Rajput:** [GitHub Profile: @Vinay-hack47](https://github.com/Vinay-hack47)
 - **Sahil Srivastava:** [GitHub Profile: @SahilDev](https://github.com/SahilDev)
 - **Priyanshu Mishra:** [GitHub Profile: @PriyanshuMishraDev](https://github.com/PriyanshuMishraDev)
 - **Rushikesh Thokade:** [GitHub Profile: @RushikeshDev](https://github.com/RushikeshDev)
